@@ -19,6 +19,4 @@ public class Main_module {
 		default:
 		Login l=new Login();break;
 		}}
-
-
 }
